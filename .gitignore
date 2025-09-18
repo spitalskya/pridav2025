@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!.README.md
 
 !du1/
 !du2/
